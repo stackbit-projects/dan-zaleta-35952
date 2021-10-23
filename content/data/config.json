@@ -9,7 +9,7 @@
         "profile_img": "/images/daniel_zaleta_foto_trim.jpeg",
         "profile_img_alt": "Author avatar",
         "background": "light",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
