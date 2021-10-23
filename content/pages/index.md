@@ -32,9 +32,6 @@ seo:
   title: Desarrollador de Software
   description: The preview of the Fresh theme
   extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
     - name: 'og:title'
       value: Stackbit Fresh Theme
       keyName: property
